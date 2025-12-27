@@ -1,7 +1,5 @@
-
 # 💫 About Me
 <div align="center">
-
 
 I'm **Konda Rithesh** from Hyderabad, Telangana, India  
 🎓 Engineering student specializing in **Artificial Intelligence & Machine Learning (AIML)**  
@@ -10,16 +8,23 @@ I'm **Konda Rithesh** from Hyderabad, Telangana, India
 
 🏏 Passionate about **cricket** and sharpening my mind with **chess**
 
+</div>
+
 ---
 
 ## 🌐 Socials
+<div align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rithesh.konda_23/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithesh-konda-0b8310291/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rithesh.konda23@gmail.com)  
 
+</div>
+
 ---
 
 # ⚡ Arsenal
+<div align="center">
 
 ## 🔑 Core Languages  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -58,21 +63,33 @@ I'm **Konda Rithesh** from Hyderabad, Telangana, India
 ![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white) 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</div>
+
 ---
 
 # 📊 GitHub Stats
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=RitheshKonda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://nirzak-streak-stats.vercel.app/?user=RitheshKonda&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RitheshKonda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
+</div>
+
 ---
 
 ### ✍️ Random Dev Quote
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+</div>
 
 ---
 
 # 📡 Connect
+<div align="center">
+
 <a href="mailto:rithesh.konda23@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
@@ -83,7 +100,11 @@ I'm **Konda Rithesh** from Hyderabad, Telangana, India
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+</div>
+
 ---
+
+<div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=RitheshKonda&icon=0&color=0)](https://visitcount.itsvg.in)
 
