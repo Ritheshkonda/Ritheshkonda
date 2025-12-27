@@ -9,13 +9,7 @@ I'm **Konda Rithesh** from Hyderabad, Telangana, India
 
 ---
 
-## 🌐 Socials
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithesh-konda-0b8310291/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rithesh.konda23@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rithesh.konda_23/)  
-</div>
-
+## 🌐 Socials <div align="center"> <a href="https://www.linkedin.com/in/rithesh-konda-0b8310291/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:rithesh.konda23@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.instagram.com/rithesh.konda_23/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> </a> </div>
 ---
 
 # ⚡ Arsenal
