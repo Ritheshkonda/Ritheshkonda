@@ -1,5 +1,4 @@
 # 💫 About Me
-<div align="center">
 
 I'm **Konda Rithesh** from Hyderabad, Telangana, India  
 🎓 Engineering student specializing in **Artificial Intelligence & Machine Learning (AIML)**  
@@ -8,17 +7,13 @@ I'm **Konda Rithesh** from Hyderabad, Telangana, India
 
 🏏 Passionate about **cricket** and sharpening my mind with **chess**
 
-</div>
-
 ---
 
 ## 🌐 Socials
 <div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rithesh.konda_23/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithesh-konda-0b8310291/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rithesh.konda23@gmail.com)  
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rithesh.konda_23/)  
 </div>
 
 ---
