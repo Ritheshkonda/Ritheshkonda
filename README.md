@@ -3,7 +3,7 @@
 I'm **Konda Rithesh** from Hyderabad, Telangana, India  
 🎓 Engineering student specializing in **Artificial Intelligence & Machine Learning (AIML)**  
 
-📚 Currently exploring **DSA, Machine Learning, Web Development, Software Engineering, and Generative AI**  
+📚 Currently exploring DSA, Machine Learning, Deep Learning, Generative AI, AI Development, LLMs, Computer Vision, NLP, Software Engineering, and Building Production-Ready AI Applications.
 
 🏏 Passionate about **cricket** and sharpening my mind with **chess**
 
